@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css2?family=Festive&family=Lobster&family=Rampart+One&family=Scheherazade+New&display=swap');
+/* font-family: 'Festive', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Rampart One', cursive;
+}
+font-family: 'Scheherazade New', serif; */
+
+.intro{
+    
+    height: 520px;
+    margin-top: 30px;
+    background-image: url(./images/intro.jpg);
+    background-size: cover;
+    
+
+        /* padding-left: 850px;
+        padding-top: 140px; */
+    
+    
+}
+@media (max-width: 375px){
+    .comm{
+        width: 80%;
+    }
+    .cards{
+    display:block;
+    margin-left: -15px;
+    /* align-items: center;
+    justify-content: center; */
+}
+
+
+.card{
+    width: 5rem;
+}
+}
+
+.intro-text{
+    
+    width: 500px;
+    /* margin-left: 800px;
+    padding-top: 100px; */
+}
+.wel{
+    color: white;
+}
+.tim{
+    /* margin-left: 265px;
+    margin-top: 10px; */
+}
+.fn{
+    font-size: 50px;
+}
+.carousel{
+    background-color : rgb(0, 0, 0) ;
+
+    height: 500px;
+}
+
+
+.social{
+    background-color: rgba(219, 212, 212, 0.623);
+}
+.ctn{
+    margin-left: -1120px;
+    margin-top: -30px;
+}
+.rev{
+    height: 400px;
+    padding-bottom: 50px;
+}
+
+
+.nav-link{
+    border-radius: 15px;
+    color: white;
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+
+}
+.special{
+    font-family: 'Rampart One', cursive;
+    color:black;
+}
+.middle{
+    text-align: center;
+    width: 250px;
+    height: 100px;
+    font-family: 'Scheherazade New', serif;
+}
+.man{
+    height: 285px;
+}
+.vm{
+    align-items: center;
+}
+.card-img:hover{
+    opacity: 50%;
+    
+}
+
+.ovt{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+.bur{
+    font-size: 50px;
+    color: white;
+   
+    
+
+}
+.moh{
+    
+    font-size: 50px;
+    color: white;
+    
+}
+.dess{
+    font-size: 50px;
+    color: white;
+    
+}
+.sp{
+    
+    height: 300px;
+}
+.bu{display: flex;
+    align-items: center;
+    justify-content: center;
+background-image: url(./images/bur.jpg);
+    background-size: cover;
+    
+}
+.mo{display: flex;
+    align-items: center;
+    justify-content: center;
+background-image: url(./images/whitney-wright-TgQkxQc-t_U-unsplash.jpg);
+    background-size: cover;
+}
+.des{display: flex;
+    align-items: center;
+    justify-content: center;
+background-image: url(./images/dess.cms);
+    background-size: cover;
+}
+.bu:hover{
+    opacity: 50%;
+}.mo:hover{
+    opacity: 50%;
+}.des:hover{
+    opacity: 50%;
+}
+body{
+    background-image: url();
+    background-size:cover;
+    
+}
+.aaa{
+    text-align: center;
+}
