@@ -24,7 +24,7 @@ font-family: 'Scheherazade New', serif; */
     }
     .cards{
     display:block;
-    margin-left: 0px;
+    margin-left: -10px;
     /* align-items: center;
     justify-content: center; */
 }
